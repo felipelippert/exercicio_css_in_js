@@ -9,7 +9,7 @@ export const HeroDiv = styled.div`
   display: flex;
   align-items: center;
 
-  HeroDiv::before {
+  :before {
     position: absolute;
     top: 0;
     left: 0;
